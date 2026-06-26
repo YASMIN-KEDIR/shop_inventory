@@ -18,5 +18,6 @@ A professional Laravel-based inventory management system designed for electronic
 
 1. **Clone the project:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_PROJECT_NAME.git](https://github.com/YOUR_USERNAME/YOUR_PROJECT_NAME.git)
-   cd YOUR_PROJECT_NAME
+  git clone https://github.com/YASMIN-KEDIR/shop_inventory.git
+cd shop_inventory
+  
